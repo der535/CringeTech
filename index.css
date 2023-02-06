@@ -7,6 +7,7 @@ body {
     color: white;
     font: 5.2em "Gotham Pro Black";
     text-align: center;
+    margin-top: -20px;
 }
 
 .CringeTech{
@@ -32,4 +33,38 @@ body {
 .ButtonGooglePlayDiv{
     width: 500px;
     margin: 30px auto;
+}
+
+.CrinjometerModelOne{
+    width: 1000px;
+    margin: 0px auto;
+    margin-top: 100px;
+}
+
+.CrinjometerModelOneText{
+    width: 700px;
+    margin: -530px auto;
+    margin-right: 200px;
+    font: 2.2em "Arial";
+    color: white;
+}
+
+.titleOfise{
+    color: white;
+    font: 5.2em "Gotham Pro Black";
+    text-align: center;
+    margin-top: 700px;
+}
+
+.MapPosition{
+    width: 700px;
+    margin: 40px auto;
+    font: 2.2em "Arial";
+    color: white;
+}
+
+.MrWhite{
+    width: 700px;
+    margin: 40px auto;
+    padding: 10px;
 }
