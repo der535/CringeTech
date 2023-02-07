@@ -20,19 +20,10 @@ body {
     margin: 0px auto;
 }
 
-.ButtonGooglePlay{
-    width: 494px;
-    height: 173px;
-    border: 0;
-    cursor: pointer;
-    font-size: 2rem;
-    background-image: url(%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0.png);
-    background-size: cover;
-}
-
 .ButtonGooglePlayDiv{
     width: 500px;
     margin: 30px auto;
+    cursor: pointer;
 }
 
 .CrinjometerModelOne{
@@ -44,9 +35,11 @@ body {
 .CrinjometerModelOneText{
     width: 700px;
     margin: -530px auto;
-    margin-right: 200px;
     font: 2.2em "Arial";
     color: white;
+    
+    text-align: left;
+    transform: translate(6em, 0em);
 }
 
 .titleOfise{
